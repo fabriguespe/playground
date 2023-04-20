@@ -1,0 +1,67 @@
+
+h4{
+    margin-bottom: 40px;
+}
+.mt10{
+    margin-top: 10px;
+}
+button{
+    background-color: #2C0969;
+    color:white;
+    border:0px !important;
+    padding: 5px;
+    border-radius: 10%;
+}
+label{
+    color: black;
+  }
+  .headline {
+    text-align: center;
+    font-weight: 100;
+  }
+  .col1,.col2{
+    width: 50%;
+    margin: 0 ;
+  }
+  .chat-area {
+  /*   border: 1px solid #ccc; */
+    background: white;
+    padding: 1em;
+    margin: 0 ;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3)
+  }
+  .message {cursor:pointer;
+    width: 45%;
+    border-radius: 10px;
+    padding: .5em;
+  /*   margin-bottom: .5em; */
+    font-size: .8em;
+  }
+  .message-you {
+    background: #407FFF;
+    color: white;
+    margin-left: 50%;
+  }
+  .message-bob {
+    background: green;
+    color: white;
+  }
+  .message-fabri {
+    background: grey;
+    color: white;
+  }
+  .message-matt {
+    background: orange;
+    color: white;
+  }
+  .message-paul {
+    background: red;
+    color: white;
+  }
+  #person1-input {
+    padding: .5em;
+  }
+  #person2-input {
+    padding: .5em;  
+  }
+  
